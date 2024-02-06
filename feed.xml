@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ireland&#x27;s Pub Culture</title>
+    <link href="https://eseaotter.github.io/skibb/feed.xml" rel="self" />
+    <link href="https://eseaotter.github.io/skibb" />
+    <updated>2024-02-05T16:29:10-08:00</updated>
+    <author>
+        <name>Emma Cotter</name>
+    </author>
+    <id>https://eseaotter.github.io/skibb</id>
+
+    <entry>
+        <title>Introduction</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/skibb/introduction.html"/>
+        <id>https://eseaotter.github.io/skibb/introduction.html</id>
+        <media:content url="https://eseaotter.github.io/skibb/media/posts/4/The-Brazen-Head-Outside.jpeg" medium="image" />
+
+        <updated>2024-02-05T16:29:10-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://eseaotter.github.io/skibb/media/posts/4/The-Brazen-Head-Outside.jpeg" alt="" />
+                    Almost 2,000 pubs in Ireland have closed since 2005, according to a new report undertaken by Drinks Industry Group of Ireland. The research shows that 108 bars shut in 2022, while there has been a 22.5% closure rate since 2005. For my Digital Storytelling Project,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://eseaotter.github.io/skibb/media/posts/4/The-Brazen-Head-Outside.jpeg" class="type:primaryImage" alt="" /></p>
+                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/7aD2JGx3yz0?si=61EapsBNZ_P-mP41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div>
+
+  <p>
+    Almost 2,000 pubs in Ireland have closed since 2005, according to a new report undertaken by Drinks Industry Group of Ireland.<br>The research shows that 108 bars shut in 2022, while there has been a 22.5% closure rate since 2005.<br>For my Digital Storytelling Project, I want to explore the distinct narratives surrounding pub culture in Ireland and how the transformation of public gathering spaces poses challenges to Ireland's global identity. Irish Pubs have been enduring symbols of community, enjoyment, and family in the small nation of Ireland. However, with shifts in alcohol consumption habits, the impact of COVID-19, the migration of Irish youth, and the trials faced by family businesses, the traditional Irish Pub is facing a complex evolution in Ireland and around the world. I hope to combine unique pub stories with current events to exemplify all angles of this change.<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Visualizing the Pub Decline</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/skibb/visualizing-the-pub-decline.html"/>
+        <id>https://eseaotter.github.io/skibb/visualizing-the-pub-decline.html</id>
+
+        <updated>2024-02-05T13:45:05-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Policy and Community Changes </title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/skibb/policy-and-community-changes.html"/>
+        <id>https://eseaotter.github.io/skibb/policy-and-community-changes.html</id>
+
+        <updated>2024-02-05T13:44:46-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The History of Irish Pubs</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/skibb/the-history-of-irish-pubcs.html"/>
+        <id>https://eseaotter.github.io/skibb/the-history-of-irish-pubcs.html</id>
+
+        <updated>2024-02-05T14:42:35-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://eseaotter.github.io/skibb/media/posts/1/gallery/c622dcc41588eca790451403ae979469.jpeg" data-size="735x859"><img loading="lazy" src="https://eseaotter.github.io/skibb/media/posts/1/gallery/c622dcc41588eca790451403ae979469-thumbnail.jpeg" alt="" width="720" height="841"></a></figure>
+<figure class="gallery__item"><a href="https://eseaotter.github.io/skibb/media/posts/1/gallery/pub-scene.jpeg" data-size="1500x1000"><img loading="lazy" src="https://eseaotter.github.io/skibb/media/posts/1/gallery/pub-scene-thumbnail.jpeg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://eseaotter.github.io/skibb/media/posts/1/gallery/closed.webp" data-size="970x485"><img loading="lazy" src="https://eseaotter.github.io/skibb/media/posts/1/gallery/closed-thumbnail.webp" alt="" width="720" height="360"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

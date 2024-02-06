@@ -1,0 +1,67 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ireland&#x27;s Pub Culture",
+    "description": "",
+    "home_page_url": "https://eseaotter.github.io/skibb",
+    "feed_url": "https://eseaotter.github.io/skibb/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Emma Cotter"
+    },
+    "items": [
+        {
+            "id": "https://eseaotter.github.io/skibb/introduction.html",
+            "url": "https://eseaotter.github.io/skibb/introduction.html",
+            "title": "Introduction",
+            "summary": "Almost 2,000 pubs in Ireland have closed since 2005, according to a new report undertaken by Drinks Industry Group of Ireland. The research shows that 108 bars shut in 2022, while there has been a 22.5% closure rate since 2005. For my Digital Storytelling Project,&hellip;",
+            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7aD2JGx3yz0?si=61EapsBNZ_P-mP41\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe></div>\n</div>\n\n  <p>\n    Almost 2,000 pubs in Ireland have closed since 2005, according to a new report undertaken by Drinks Industry Group of Ireland.<br>The research shows that 108 bars shut in 2022, while there has been a 22.5% closure rate since 2005.<br>For my Digital Storytelling Project, I want to explore the distinct narratives surrounding pub culture in Ireland and how the transformation of public gathering spaces poses challenges to Ireland's global identity. Irish Pubs have been enduring symbols of community, enjoyment, and family in the small nation of Ireland. However, with shifts in alcohol consumption habits, the impact of COVID-19, the migration of Irish youth, and the trials faced by family businesses, the traditional Irish Pub is facing a complex evolution in Ireland and around the world. I hope to combine unique pub stories with current events to exemplify all angles of this change.<br>\n  </p>",
+            "image": "https://eseaotter.github.io/skibb/media/posts/4/The-Brazen-Head-Outside.jpeg",
+            "author": {
+                "name": "Emma Cotter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T13:47:03-08:00",
+            "date_modified": "2024-02-05T16:29:10-08:00"
+        },
+        {
+            "id": "https://eseaotter.github.io/skibb/visualizing-the-pub-decline.html",
+            "url": "https://eseaotter.github.io/skibb/visualizing-the-pub-decline.html",
+            "title": "Visualizing the Pub Decline",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Emma Cotter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T13:45:05-08:00",
+            "date_modified": "2024-02-05T13:45:05-08:00"
+        },
+        {
+            "id": "https://eseaotter.github.io/skibb/policy-and-community-changes.html",
+            "url": "https://eseaotter.github.io/skibb/policy-and-community-changes.html",
+            "title": "Policy and Community Changes ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Emma Cotter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T13:44:46-08:00",
+            "date_modified": "2024-02-05T13:44:46-08:00"
+        },
+        {
+            "id": "https://eseaotter.github.io/skibb/the-history-of-irish-pubcs.html",
+            "url": "https://eseaotter.github.io/skibb/the-history-of-irish-pubcs.html",
+            "title": "The History of Irish Pubs",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/c622dcc41588eca790451403ae979469.jpeg\" data-size=\"735x859\"><img loading=\"lazy\" src=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/c622dcc41588eca790451403ae979469-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"841\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/pub-scene.jpeg\" data-size=\"1500x1000\"><img loading=\"lazy\" src=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/pub-scene-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"480\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/closed.webp\" data-size=\"970x485\"><img loading=\"lazy\" src=\"https://eseaotter.github.io/skibb/media/posts/1/gallery/closed-thumbnail.webp\" alt=\"\" width=\"720\" height=\"360\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Emma Cotter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-05T13:43:46-08:00",
+            "date_modified": "2024-02-05T14:42:35-08:00"
+        }
+    ]
+}
